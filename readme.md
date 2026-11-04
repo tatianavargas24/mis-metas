@@ -40,3 +40,4 @@ Mi propósito es seguir aprendiendo, mejorar mis habilidades y avanzar poco a po
 
 - Estoy aprendiendo a trabajar con repositorios remotos en GitHub.
 - Estoy aprendiendo a sincronizar mis proyectos entre GitHub y mi computador.
+- - Mi objetivo es mejorar mis habilidades en programación y control de versiones.
