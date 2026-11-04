@@ -39,3 +39,4 @@ Mi propósito es seguir aprendiendo, mejorar mis habilidades y avanzar poco a po
 **Proyecto realizado como parte de mis actividades de ADSO.**
 
 - Estoy aprendiendo a trabajar con repositorios remotos en GitHub.
+- Estoy aprendiendo a sincronizar mis proyectos entre GitHub y mi computador.
