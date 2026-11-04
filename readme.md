@@ -37,3 +37,5 @@ Mi propósito es seguir aprendiendo, mejorar mis habilidades y avanzar poco a po
 *Cada pequeño avance cuenta. Lo importante es no dejar de aprender.* ✨
 
 **Proyecto realizado como parte de mis actividades de ADSO.**
+
+- Estoy aprendiendo a trabajar con repositorios remotos en GitHub.
